@@ -25,7 +25,7 @@ git@github.com:Kimberly-Rodriguez/SkillsList.git
 
 ## Tools
 
-This application was built using datepicker widget `datepikcer()`, autocomplete widget `autocomplete()`, and interactivity like `sortable()` so that the list of skills can be reorganized and sorted using drag-and-drop functionality.
+This application was built using datepicker widget `datepikcer()`, autocomplete widget `autocomplete()`, and interactivity like `sortable()` so that the list of skills can be reorganized and sorted using drag-and-drop functionality. Used the following site : https://jqueryui.com/sortable/#placeholder to identify the right widget for this application.
 
 
 ## Contact
