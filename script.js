@@ -68,3 +68,11 @@ $(function () {
     changeYear: true,
   });
 });
+
+// Add interaction here
+$( function() {
+  $( "#skills-list" ).sortable({
+    placeholder: "ui-state-highlight"
+  });
+  $( "#skills-list" ).disableSelection();
+} );
