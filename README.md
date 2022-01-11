@@ -21,7 +21,7 @@ git@github.com:Kimberly-Rodriguez/SkillsList.git
 ```
 ![webimage](.png)
 
-[Application-Link]()
+[Application-Link](https://kimberly-rodriguez.github.io/SkillsList/)
 
 ## Tools
 
@@ -30,7 +30,7 @@ This application was built using datepicker widget `datepikcer()`, autocomplete 
 
 ## Contact
 
-If you have any questions about my work OR wish to collaborate in the future please contact me via email: krodriguez.ucla@gmail.com OR feel free to connect via GitHub: [Kimberly-Rodriguez](https://github.com/Kimberly-Rodriguez).
+If you have any questions about my work OR wish to collaborate in the future please contact me via email: krodriguez.ucla@gmail.com OR via GitHub: [Kimberly-Rodriguez](https://github.com/Kimberly-Rodriguez).
 
 ## License 
 
