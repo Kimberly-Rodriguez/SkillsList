@@ -1,4 +1,4 @@
-# theNumbers
+# SkillsList
 
 ## Table of Contents
 
