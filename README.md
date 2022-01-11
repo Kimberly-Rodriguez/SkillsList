@@ -10,14 +10,13 @@
 * [Acknowledgements](#acknowledgements)
 
 ## Description
-
+To sort my list of skills using the cursor to drag and drop them.
 
 ## Installation
 
 * Clone the repo (please reference the links below).
 ```md 
-git@github.com:Kimberly-Rodriguez/theNumbers.git
-git
+git@github.com:Kimberly-Rodriguez/SkillsList.git
 
 ```
 ![webimage](.png)
@@ -26,7 +25,7 @@ git
 
 ## Tools
 
-This application was built using JavaScript with methods like `push()`, `stringify()`, and `matches()` to collect user input and display information to the user. As well as, localstorage to store persisiting data in the browser.
+This application was built using datepicker widget `datepikcer()`, autocomplete widget `autocomplete()`, and interactivity like `sortable()` so that the list of skills can be reorganized and sorted using drag-and-drop functionality.
 
 
 ## Contact
