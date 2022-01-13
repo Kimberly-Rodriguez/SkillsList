@@ -79,7 +79,8 @@ $(document).ready(function () {
     });
     $("#skills-list").disableSelection();
   });
-
+ 
+  //fetch request to the github url 
   fetchButton.on("click", async () => {
     let requestUrl = "https://api.github.com/orgs/nodejs/repos";
     let response = await fetch(requestUrl);
